@@ -1,0 +1,95 @@
+﻿==================================================
+CHRONOS ARENA - REGISTRO DE PARTIDA
+==================================================
+Fecha: 09/11/2026 15:57:48
+Ganador: Empate
+
+EQUIPO DEL JUGADOR:
+- Hanzo | Clase: Guerrero | Vida final: 110/110
+- Seraphyn | Clase: Mago | Vida final: 31/85
+- Magnus | Clase: Tanque | Vida final: 143/180
+- Elara | Clase: Mago | Vida final: 53/90
+- Vessel | Clase: Tanque | Vida final: 0/160
+
+EQUIPO DE LA IA:
+- Fiona | Clase: Guerrero | Vida final: 21/115
+- Ibuki | Clase: Mago | Vida final: 120/120
+- Ranmaru | Clase: Tanque | Vida final: 200/200
+- Tessho | Clase: Guerrero | Vida final: 100/100
+- Leo | Clase: Guerrero | Vida final: 105/105
+
+ACCIONES DE LA PARTIDA:
+15:57:34 - La batalla de Chronos Arena ha comenzado.
+15:57:34 - Tienes 30 segundos para realizar tu acción.
+15:57:37 - El jugador releva a su personaje. Entra Seraphyn.
+15:57:38 - La computadora usa su especial: Fiona ejecuta Estocada Torrencial e inflige 54 de daño.
+15:57:39 - El jugador releva a su personaje. Entra Magnus.
+15:57:40 - La computadora ataca con Fiona e inflige 37 de daño.
+15:57:40 - El jugador releva a su personaje. Entra Elara.
+15:57:41 - La computadora ataca con Fiona e inflige 37 de daño.
+15:57:41 - El jugador releva a su personaje. Entra Vessel.
+15:57:42 - La computadora ataca con Fiona e inflige 29 de daño.
+15:57:42 - Vessel ataca a Fiona e inflige 18 de daño.
+15:57:43 - La computadora ataca con Fiona e inflige 30 de daño.
+15:57:43 - Vessel ataca a Fiona e inflige 19 de daño.
+15:57:44 - Fiona se defiende: +25 energía, +15 maná y +10 defensa.
+15:57:44 - Vessel ataca a Fiona e inflige 18 de daño.
+15:57:45 - La computadora usa su especial: Fiona ejecuta Estocada Torrencial e inflige 44 de daño.
+15:57:46 - Vessel ataca a Fiona e inflige 19 de daño.
+15:57:46 - La computadora ataca con Fiona e inflige 32 de daño.
+15:57:47 - Vessel ataca a Fiona e inflige 20 de daño.
+15:57:48 - La computadora ataca con Fiona e inflige 33 de daño.
+15:57:48 - Vessel ha sido derrotado.
+
+==================================================
+CHRONOS ARENA - REGISTRO DE PARTIDA
+==================================================
+Fecha: 09/11/2026 16:01:03
+Ganador: Interrumpida
+
+EQUIPO DEL JUGADOR 1:
+- Hanzo | Clase: Guerrero | Vida final: 110/110
+- Seraphyn | Clase: Mago | Vida final: 85/85
+- Fiona | Clase: Guerrero | Vida final: 115/115
+- Magnus | Clase: Tanque | Vida final: 180/180
+- Elara | Clase: Mago | Vida final: 90/90
+
+EQUIPO DEL JUGADOR 2:
+- Hanzo | Clase: Guerrero | Vida final: 110/110
+- Seraphyn | Clase: Mago | Vida final: 85/85
+- Magnus | Clase: Tanque | Vida final: 180/180
+- Fiona | Clase: Guerrero | Vida final: 115/115
+- Elara | Clase: Mago | Vida final: 90/90
+
+ACCIONES DE LA PARTIDA:
+16:00:58 - La batalla de Chronos Arena ha comenzado.
+16:00:58 - Turno del Jugador 1. Tiene 30 segundos para realizar su acción.
+16:00:58 - Partida en línea: eres el Jugador 2.
+16:01:03 - La ventana se cerró antes de finalizar. Partida interrumpida.
+
+==================================================
+CHRONOS ARENA - REGISTRO DE PARTIDA
+==================================================
+Fecha: 09/11/2026 16:01:03
+Ganador: Jugador 1
+
+EQUIPO DEL JUGADOR 1:
+- Hanzo | Clase: Guerrero | Vida final: 110/110
+- Seraphyn | Clase: Mago | Vida final: 85/85
+- Fiona | Clase: Guerrero | Vida final: 115/115
+- Magnus | Clase: Tanque | Vida final: 180/180
+- Elara | Clase: Mago | Vida final: 90/90
+
+EQUIPO DEL JUGADOR 2:
+- Hanzo | Clase: Guerrero | Vida final: 110/110
+- Seraphyn | Clase: Mago | Vida final: 85/85
+- Magnus | Clase: Tanque | Vida final: 180/180
+- Fiona | Clase: Guerrero | Vida final: 115/115
+- Elara | Clase: Mago | Vida final: 90/90
+
+ACCIONES DE LA PARTIDA:
+16:00:58 - La batalla de Chronos Arena ha comenzado.
+16:00:58 - Turno del Jugador 1. Tiene 30 segundos para realizar su acción.
+16:00:58 - Partida en línea: eres el Jugador 1.
+16:01:03 - El Jugador 2 se ha rendido. Gana el Jugador 1.
+
